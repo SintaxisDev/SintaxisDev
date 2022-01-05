@@ -4,7 +4,7 @@
 
 - 🔭 I'm a Frontend Developer oriented to a JavasSript stack, but always open to explore new lenguages 🧐
 - 🌱 Currently learning React Native
-- 💼 Nowadays I'm looking for my first job in IT 💪
+- 💼 Nowadays I'm looking for my first IT job 💪
 - 💬 Ask me about whatever you like! Is always fun to learn new stuff 😄
 - 📫 How to reach me on: joaquin.retola@gmail.com or sintaxis.developer@gmail.com
 </br>
