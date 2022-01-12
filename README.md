@@ -7,6 +7,7 @@
 - 💼 Nowadays I'm looking for my first IT job 💪
 - 💬 Ask me about whatever you like! Is always fun to learn new stuff 😄
 - 📫 How to reach me on: joaquin.retola@gmail.com or sintaxis.developer@gmail.com
+- 💻 You can check my portfolio at https://sintaxisdev.netlify.app
 </br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SintaxisDev" />
