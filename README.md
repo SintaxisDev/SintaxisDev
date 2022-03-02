@@ -3,8 +3,7 @@
 
 
 - 🔭 I'm a Frontend Developer oriented to a JavasSript stack, but always open to explore new lenguages 🧐
-- 🌱 Recently joined Wisboo as a UX/UI Developer 🎉🎉
-- 💼 Nowadays I'm looking for my first IT job 💪
+- 💼 Recently joined Wisboo as a UX/UI Developer 🎉🎉
 - 💬 Ask me about whatever you like! Is always fun to learn new stuff 😄
 - 📫 Reach me on: joaquin.retola@gmail.com or sintaxis.developer@gmail.com
 - 💻 You can check my portfolio at https://sintaxisdev.netlify.app
